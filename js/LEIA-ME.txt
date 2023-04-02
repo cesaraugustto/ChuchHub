@@ -1,0 +1,14 @@
+app.js // app.js.LICENSE // app.js.map
+arquivos dashboard
+
+jquery.maskMoney
+máscara para inserir valor movimentações financeiras
+
+jquery.dataTables.min
+arquivo dataTable do listMembro1
+
+jquery-3.5.1
+arquivo bootstrap
+
+jquery.maskedinput.min // jquery-1.2.6.min.js
+arquivos máscara cpf

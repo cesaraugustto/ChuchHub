@@ -1,0 +1,147 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.bodyConsagracao{
+    background-image: url('./certificadoConsagracao2.jpg');
+}
+.bodyBatismo{
+    background-image: url('./CertificadoBatismo.jpg');
+}
+.bodyCurso{
+    background-image: url('./certificadoCurso.jpg');
+}
+.bodyCrianca{
+    background-image: url('./certificadoCurso.jpg');
+}
+
+.imgMembro{
+    width: 120px; 
+    height: 120px;}
+
+.imgTitulo{
+    width: 280px; 
+    height: 35px;}
+
+.assinaturaConsagracao{
+    margin-top: 15px;
+    width: 320px; 
+    height: 120px;}
+
+.assinaturaCurso{
+    width: 320px; 
+    height: 120px;
+    margin-left: 210px;
+    margin-top: 56px;}
+
+.assinaturaBatismo{
+    width: 240px; 
+    height: 90px;
+    margin-left: 445px;
+    margin-top: -5px;}
+
+
+
+.tituloPrincipal{
+margin-top: 160px;
+margin-left: 180px;}
+
+.tituloPrincipalBatismo{
+margin-top: 175px;
+margin-left: 235px;}
+
+
+/*Parte da carteirinha e registro geral*/
+.linhaRegistroGeral{
+    background-image: url('./carteirinha.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 735px;
+    height: 255px;
+}
+
+.imgGeral{
+    margin-top: -50px;
+    margin-left: 200px;
+    width: 120px; 
+    height: 120px;}
+
+.nomeCarteirinha{
+    margin-top: 142px;
+    margin-left: 63px;
+    position: absolute;
+    font-size: 14px;
+}
+
+.dataBatismoCarteirinha{
+    margin-top: 161px;
+    margin-left: 140px;
+    position: absolute;
+    font-size: 14px;
+}
+
+.cargoCarteirinha{
+    margin-top: 179px;
+    margin-left: 69px;
+    position: absolute;
+    font-size: 14px;
+}
+.imgCarteirinha{
+    margin-top: 124px;
+    margin-left: 248px;
+    position: absolute;
+}
+
+.imgMembroCarteirinha{
+    width: 100px; 
+    height: 118px;
+    border-radius: 6px;
+}
+
+.imgAssinaturaGeral{
+    height: 70px;
+}
+.assinaturaGeral{
+    margin-left: 480px;
+    margin-top: 190px;
+    position: absolute;
+}
+
+.emissaoCarteirinha{
+    margin-top: 90px;
+    margin-left: 465px;
+    position: absolute;
+    font-size: 14px;
+}
+
+.dataCadastroCarteirinha{
+    margin-top: 111px;
+    margin-left: 505px;
+    position: absolute;
+    font-size: 14px;
+}
+
+.cpfCarteirinha{
+    margin-top: 130px;
+    margin-left: 423px;
+    position: absolute;
+    font-size: 14px;
+}
+.nascimentoCarteirinha{
+    margin-top: 148px;
+    margin-left: 545px;
+    position: absolute;
+    font-size: 14px;
+}
+.estadocivilCarteirinha{
+    margin-top: 166px;
+    margin-left: 495px;
+    position: absolute;
+    font-size: 14px;
+}

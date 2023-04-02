@@ -1,0 +1,53 @@
+  /*Botão outline*/
+  
+.btn-primary{
+    background-color: #000b1f;
+    color: #eff7ff;
+    border-color: #000b1f;
+    font-family: 'Tilt Neon', cursive;
+    font-size: 17px; }
+
+  .btn-primary:hover {
+    border-color: #000b1f;
+    background-color: #eff7ff;
+    color: #000b1f;
+    font-family: 'Tilt Neon', cursive;
+  }
+
+  .btn-outline-primary {
+    color: #000b1f;
+    border-color: #000b1f;
+    font-family: 'Tilt Neon', cursive;
+    font-size: 17px;
+  }
+  .btn-outline-primary:hover {
+    border-color: #000b1f;
+    background-color: #000b1f;
+    color: #eff7ff;
+    font-family: 'Tilt Neon', cursive;
+  }
+
+
+  .btn-outline-secondary {
+    color: #eff7ff;
+    border-color: #000b1f;
+    font-family: 'Tilt Neon', cursive;
+    font-size: 15px;
+  }
+  .btn-outline-secondary:hover {
+    border-color: #eff7ff;
+    background-color: #eff7ff;
+    color: #000b1f;
+    font-family: 'Tilt Neon', cursive;
+  }
+
+.profile-head {
+    transform: translateY(5rem);
+}
+
+.cover {
+    background-image: url("../upload/user/mountain.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+

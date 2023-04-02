@@ -1,0 +1,8 @@
+app.css // app.css.map
+arquivo css do dashboard
+
+jquery.dataTables.min
+arquivo referente ao listMembro1
+
+cssMembro.css
+arquivo referente ao CSS do perfil de usuário que não é pastor
